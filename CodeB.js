@@ -42,14 +42,6 @@ function rellenar1(){
     matriz[4][4]="0";
 }
 
-/*function rellena(){
-    for(i = 0; i < n_Fil; i++){
-        for(j = 0; j < n_Col; j++){
-            matriz[i][j] = 0;
-        }
-    }
-}*/
-
 function imprimir(){
     for ( i=0; i<n_Fil; i++)	{
         for ( j=0; j <matriz[i].length; j++)	{
