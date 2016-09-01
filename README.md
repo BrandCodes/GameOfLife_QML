@@ -8,4 +8,4 @@ Yo hice una matriz de 5x5 creando previamente la primera generacion dando vida a
 0= celula muerta
 
 :coffee:
-: space_invader :
+:space_invader:
